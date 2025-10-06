@@ -3,6 +3,14 @@
 ## Overview
 A Django REST API for managing warehouse inventory with features for product and stock management.
 
+---
+## 🎥 Video Tutorials
+
+| Tutorial | Link | Description |
+|----------|------|-------------|
+| 🚀 **Setup & Development** | [Watch Now](https://drive.google.com/file/d/1X-F6I-dzmwjxqGVh5LSDqdaRH1n5iD_6/view?usp=sharing) | Initial setup, configuration & API testing |
+
+
 ## Features
 - Product Management (CRUD operations)
 - Stock Movement Tracking
